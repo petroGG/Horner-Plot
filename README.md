@@ -1,4 +1,3 @@
 # Horner-Plot
-Horner-Plot - Well Bottom Hole Temperature (BHT).
-Calculates the BHT with horner_bht_temp(...) function.
-Determinates the BHT by Horner graphical solution. 
+Calculates in python the Well Bottom Hole Temperature (BHT) with horner_bht_temp(...) function.
+It also estimates the BHT from Horner graphical solution.
